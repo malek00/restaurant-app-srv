@@ -1,0 +1,16 @@
+{
+  "name": "restaurant-app-srv",
+  "version": "1.0.0",
+  "description": "partie serveur node d'appli restaurant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "srv",
+    "node",
+    "restaurant"
+  ],
+  "author": " <derbel malek> (example.com)",
+  "license": "MIT"
+}
